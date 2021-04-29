@@ -1,0 +1,11 @@
+{
+    "name": "HTMoon",
+    "website": "https://htmoon.finance",
+    "description": "HTMoon is the first community token issued based on the HTMoon Protocol. The HTMoon Protocol was developed by an anonymous team. The background of the HTMoon Protocol development is that the HTMoon team believes that the value of HT Token is seriously underestimated!",
+    "explorer": "https://hecoinfo.com/address/0xb62E3b6a3866f5754FdeFcf82e733310e2851043",
+    "type": "HRC20",
+    "symbol": "HTMoon",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb62E3b6a3866f5754FdeFcf82e733310e2851043"
+}
